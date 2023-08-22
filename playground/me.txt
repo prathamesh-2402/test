@@ -1,5 +1,0 @@
-{{#user}}
-Name: Prathamesh Chaubey
-Skills: HTML, CSS, JS, Reactjs, Next.js
-Email: prathameshchaubey@gmail.com
-{{/user}}
